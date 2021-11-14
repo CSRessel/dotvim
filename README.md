@@ -9,3 +9,5 @@ Installation:
 ```
 
 Plugin install automated at start of vimrc
+Plugin update manually executed in vim with `:PlugUpdate`
+
